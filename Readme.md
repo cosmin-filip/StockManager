@@ -1,0 +1,1 @@
+An example project for .NET Standard in Xamarin Forms. Pulled from information I mention in https://xamarinhelp.com/dot-net-standard-pcl-xamarin-forms/
